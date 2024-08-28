@@ -25,7 +25,7 @@
 
 - This project aims to develop a method for detecting the news stories using machine learning.
 - The main goal of this project is to identify and predict whether a given news article is a fake news or not.
-- We gathered our data, preprocessed the text, and translated our articles into supervised model features.
+- I gathered data, preprocessed the text, and translated our articles into supervised model features.
 ###### Delimitations: My project does not guarantee 100% accuracy.
 
 ### Work Flow of Project
@@ -43,8 +43,8 @@
 - It models the relationship between the input variables and the binary output variable using sigmoid function, which transforms the output of the model to a probability between 0 and 1.
 #### Decision Tree Classifier 
 - A decision tree classifier is a type of algorithm used for classification tasks that builds a tree-like model by recursively partitioning the data based on the input variables and their values to predict the class label of new data.
-#### Gradient Bound Classifier - A gradient bound classifier is a type of machine learning algorithm used for
-classification tasks. It updates a set of weights to minimize the difference between predicted and actual outcomes. The "gradient bound" term means it has a constraint that prevents the weights from becoming too large. This helps prevent numerical instability or overfitting.
+#### Gradient Boosting Classifier - 
+- A gradient boosting classifier is a type of machine learning algorithm used for classification tasks. It updates a set of weights to minimize the difference between predicted and actual outcomes. The "gradient boosting" term means it has a constraint that prevents the weights from becoming too large. This helps prevent numerical instability or overfitting.
 #### Random Forest Classifier
 - A random forest classifier is a type of machine learning algorithm used for classification tasks. It combines many decision trees to make a prediction. Each tree looks at a random subset of the data and features, which helps to prevent overfitting. The final prediction is based on the most commonly predicted class by all the trees. Random forest classifiers are accurate and can handle large and complex datasets.
  
@@ -52,11 +52,11 @@ classification tasks. It updates a set of weights to minimize the difference bet
 ##### The outcome of our project is as follows:
 - Logistic Regression: Out of all the test cases we have tested on the model, it gave 100 percent accuracy on trained data and more than 85% accuracy on untrained data(predicted data).
 - Decision Tree Classifier: Out of all the test cases we have tested on the model, it gave 100 percent accuracy on trained data and more than 60% accuracy on untrained data(predicted data).
-- Gradient Bound Classifier: Out of all the test cases we have tested on the model, it gave 100 percent accuracy on trained data and more than 70% accuracy on untrained data(predicted data).
+- Gradient Boosting Classifier: Out of all the test cases we have tested on the model, it gave 100 percent accuracy on trained data and more than 70% accuracy on untrained data(predicted data).
 - Random Forest Classifier: Out of all the test cases we have tested on the model, it gave 100 percent accuracy on trained data and more than 90% accuracy on untrained data(predicted data).
  
 ## Conclusion
-- The outcome of this project shows the capability of machine learning to be fruitful in this Task. We have tried to build a model that helps in catching many intuitive indications of real and fake news. We have used multiple performance matrics.
+- The outcome of this project shows the capability of machine learning to be fruitful in this Task. I have tried to build a model that helps in catching many intuitive indications of real and fake news. I have used multiple performance matrics.
 
 
 
