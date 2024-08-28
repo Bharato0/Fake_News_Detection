@@ -1,5 +1,5 @@
 # Fake_News_Detection
-### Fake News Detection using Python and Machine learning
+### Fake News Detection using Python and Machine learning with local Deployment
 
 ### TABLE OF CONTENT
 
