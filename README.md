@@ -26,7 +26,7 @@
 - This project aims to develop a method for detecting the news stories using machine learning.
 - The main goal of this project is to identify and predict whether a given news article is a fake news or not.
 - We gathered our data, preprocessed the text, and translated our articles into supervised model features.
-###### Delimitations: Our project does not guarantee 100% accuracy.
+###### Delimitations: My project does not guarantee 100% accuracy.
 
 ### Work Flow of Project
 
