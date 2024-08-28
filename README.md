@@ -3,11 +3,11 @@
 
 ### TABLE OF CONTENT
 
-- Introduction	Libraries Used
+- Introduction
 - Major Problem	Technologies Used
 - Purpose	Results
 - Work Flow of Project	Conclusion
-- System Requirements	References
+
 
 ### What is a Fake News?
 
